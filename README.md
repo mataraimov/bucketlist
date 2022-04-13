@@ -5,6 +5,8 @@ A bucket list is a list of the experiences or achievements that a person hopes t
 ## This is my midterm project for CS 204 course at AIU CS department.
 
 ## Requirements 
+- Used a PostgreSQL Database
+- Deployed online
 - Heroku [Link to the site]https://bucketlist2222.herokuapp.com/main
 
 - Screenshots:
